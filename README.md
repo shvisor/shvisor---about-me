@@ -6,4 +6,4 @@ You didn't seriously believe that I would be a wizard? )))
 
 I'm cool
 
-![photo](https://github.com/shvisor/images/blob/main/DSC_1500.JPG)
+![photo](shvisor/github.io/images/DSC_1500.JPG)
